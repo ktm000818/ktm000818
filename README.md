@@ -1,7 +1,7 @@
 <!--
 **ktm000818/ktm000818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you start:
 
 - 🔭 I’m currently working on impix co.
 - 🌱 I’m currently learning Core javascript.
