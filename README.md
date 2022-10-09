@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ktm000818/ktm000818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
